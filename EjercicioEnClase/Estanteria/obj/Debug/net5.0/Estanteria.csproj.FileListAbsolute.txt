@@ -1,0 +1,16 @@
+C:\Users\Agus\source\repos\EjercicioEnClase\Estanteria\bin\Debug\net5.0\Estanteria.exe
+C:\Users\Agus\source\repos\EjercicioEnClase\Estanteria\bin\Debug\net5.0\Estanteria.deps.json
+C:\Users\Agus\source\repos\EjercicioEnClase\Estanteria\bin\Debug\net5.0\Estanteria.runtimeconfig.json
+C:\Users\Agus\source\repos\EjercicioEnClase\Estanteria\bin\Debug\net5.0\Estanteria.runtimeconfig.dev.json
+C:\Users\Agus\source\repos\EjercicioEnClase\Estanteria\bin\Debug\net5.0\Estanteria.dll
+C:\Users\Agus\source\repos\EjercicioEnClase\Estanteria\bin\Debug\net5.0\ref\Estanteria.dll
+C:\Users\Agus\source\repos\EjercicioEnClase\Estanteria\bin\Debug\net5.0\Estanteria.pdb
+C:\Users\Agus\source\repos\EjercicioEnClase\Estanteria\obj\Debug\net5.0\Estanteria.csproj.AssemblyReference.cache
+C:\Users\Agus\source\repos\EjercicioEnClase\Estanteria\obj\Debug\net5.0\Estanteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agus\source\repos\EjercicioEnClase\Estanteria\obj\Debug\net5.0\Estanteria.AssemblyInfoInputs.cache
+C:\Users\Agus\source\repos\EjercicioEnClase\Estanteria\obj\Debug\net5.0\Estanteria.AssemblyInfo.cs
+C:\Users\Agus\source\repos\EjercicioEnClase\Estanteria\obj\Debug\net5.0\Estanteria.csproj.CoreCompileInputs.cache
+C:\Users\Agus\source\repos\EjercicioEnClase\Estanteria\obj\Debug\net5.0\Estanteria.dll
+C:\Users\Agus\source\repos\EjercicioEnClase\Estanteria\obj\Debug\net5.0\ref\Estanteria.dll
+C:\Users\Agus\source\repos\EjercicioEnClase\Estanteria\obj\Debug\net5.0\Estanteria.pdb
+C:\Users\Agus\source\repos\EjercicioEnClase\Estanteria\obj\Debug\net5.0\Estanteria.genruntimeconfig.cache
