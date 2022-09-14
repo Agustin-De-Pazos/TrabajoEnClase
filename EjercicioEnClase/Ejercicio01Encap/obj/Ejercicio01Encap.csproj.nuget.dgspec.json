@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Agus\\Desktop\\TrabajoEnClase\\EjercicioEnClase\\Estanteria\\Estanteria.csproj": {}
+    "C:\\Users\\Agus\\Desktop\\TrabajoEnClase\\EjercicioEnClase\\Ejercicio01Encap\\Ejercicio01Encap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Agus\\Desktop\\TrabajoEnClase\\EjercicioEnClase\\Estanteria\\Estanteria.csproj": {
+    "C:\\Users\\Agus\\Desktop\\TrabajoEnClase\\EjercicioEnClase\\Ejercicio01Encap\\Ejercicio01Encap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Agus\\Desktop\\TrabajoEnClase\\EjercicioEnClase\\Estanteria\\Estanteria.csproj",
-        "projectName": "Estanteria",
-        "projectPath": "C:\\Users\\Agus\\Desktop\\TrabajoEnClase\\EjercicioEnClase\\Estanteria\\Estanteria.csproj",
+        "projectUniqueName": "C:\\Users\\Agus\\Desktop\\TrabajoEnClase\\EjercicioEnClase\\Ejercicio01Encap\\Ejercicio01Encap.csproj",
+        "projectName": "Ejercicio01Encap",
+        "projectPath": "C:\\Users\\Agus\\Desktop\\TrabajoEnClase\\EjercicioEnClase\\Ejercicio01Encap\\Ejercicio01Encap.csproj",
         "packagesPath": "C:\\Users\\Agus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Agus\\Desktop\\TrabajoEnClase\\EjercicioEnClase\\Estanteria\\obj\\",
+        "outputPath": "C:\\Users\\Agus\\Desktop\\TrabajoEnClase\\EjercicioEnClase\\Ejercicio01Encap\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Agus\\AppData\\Roaming\\NuGet\\NuGet.Config",

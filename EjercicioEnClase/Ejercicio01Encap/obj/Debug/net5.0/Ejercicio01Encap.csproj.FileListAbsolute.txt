@@ -1,0 +1,16 @@
+C:\Users\Agus\source\repos\CLASESUTN\Ejercicio01Encap\obj\Debug\net5.0\Ejercicio01Encap.csproj.AssemblyReference.cache
+C:\Users\Agus\source\repos\CLASESUTN\Ejercicio01Encap\obj\Debug\net5.0\Ejercicio01Encap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agus\source\repos\CLASESUTN\Ejercicio01Encap\obj\Debug\net5.0\Ejercicio01Encap.AssemblyInfoInputs.cache
+C:\Users\Agus\source\repos\CLASESUTN\Ejercicio01Encap\obj\Debug\net5.0\Ejercicio01Encap.AssemblyInfo.cs
+C:\Users\Agus\source\repos\CLASESUTN\Ejercicio01Encap\obj\Debug\net5.0\Ejercicio01Encap.csproj.CoreCompileInputs.cache
+C:\Users\Agus\source\repos\CLASESUTN\Ejercicio01Encap\bin\Debug\net5.0\Ejercicio01Encap.exe
+C:\Users\Agus\source\repos\CLASESUTN\Ejercicio01Encap\bin\Debug\net5.0\Ejercicio01Encap.deps.json
+C:\Users\Agus\source\repos\CLASESUTN\Ejercicio01Encap\bin\Debug\net5.0\Ejercicio01Encap.runtimeconfig.json
+C:\Users\Agus\source\repos\CLASESUTN\Ejercicio01Encap\bin\Debug\net5.0\Ejercicio01Encap.runtimeconfig.dev.json
+C:\Users\Agus\source\repos\CLASESUTN\Ejercicio01Encap\bin\Debug\net5.0\Ejercicio01Encap.dll
+C:\Users\Agus\source\repos\CLASESUTN\Ejercicio01Encap\bin\Debug\net5.0\ref\Ejercicio01Encap.dll
+C:\Users\Agus\source\repos\CLASESUTN\Ejercicio01Encap\bin\Debug\net5.0\Ejercicio01Encap.pdb
+C:\Users\Agus\source\repos\CLASESUTN\Ejercicio01Encap\obj\Debug\net5.0\Ejercicio01Encap.dll
+C:\Users\Agus\source\repos\CLASESUTN\Ejercicio01Encap\obj\Debug\net5.0\ref\Ejercicio01Encap.dll
+C:\Users\Agus\source\repos\CLASESUTN\Ejercicio01Encap\obj\Debug\net5.0\Ejercicio01Encap.pdb
+C:\Users\Agus\source\repos\CLASESUTN\Ejercicio01Encap\obj\Debug\net5.0\Ejercicio01Encap.genruntimeconfig.cache

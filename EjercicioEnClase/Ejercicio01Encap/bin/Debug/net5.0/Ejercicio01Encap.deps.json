@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio01Encap/1.0.0": {
+        "runtime": {
+          "Ejercicio01Encap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio01Encap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
